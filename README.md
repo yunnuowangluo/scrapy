@@ -4,7 +4,7 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 
 
 ## 讲解
-1. **demo1教程：**[编写第一个Scrapy网络爬虫 之 采集书籍信息](https://www.toutiao.com/i6613205241200378371/).
+1. **demo1教程：**[编写第一个Scrapy网络爬虫 之 采集书籍信息](https://mp.weixin.qq.com/s?__biz=MzkyMjE5MTUzNQ==&tempkey=MTA5MV9tN2ZkdExFN0R3aXREcENjRTZJRHVMTHdwWjEyTjRDVTROVTAxQTRpckhncTg4bkFrMlVkY3pZVndrcUo0WDBOSGVDNFJJc1ZBS3NZek9aZVhJVjJmVWJ5WHNkNWUzSVZhNnRESDhkRzNOaUxMUmc5NEFrTlB4cXYybGRJcF9yNGpZOWt2SWJ5NWRKNjlocU5WUXJLUVkwamVYSVJibHZBaVJwaGFnfn4%3D&chksm=41f95284768edb92a67f5af98f61b919d00038bdfae45b89bda5a7f75b38bb5626adcb2f040f#rd).
 
 
 
