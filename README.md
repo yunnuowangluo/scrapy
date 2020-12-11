@@ -13,7 +13,7 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 
 
 ## 支持一下（感谢您的支持^_^）
-![关注“码上”公众号，查看更多教程](https://www.05dt.com/images/pay.png)
+![感谢您的支持^_^](https://www.05dt.com/images/pay.png)
 
 
 ## 注意
