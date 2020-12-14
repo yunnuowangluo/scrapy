@@ -21,6 +21,7 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 4. **demo1教程：**[编写第一个Scrapy网络爬虫 之 采集书籍信息](https://www.toutiao.com/i6905315675930345996/).
 5. **Scrapy教程：**[Scrapy框架结构及工作原理](https://www.toutiao.com/i6905932561558913548/).
 6. **Scrapy教程：**[Scrapy爬虫框架中的 Request 和 Response 对象](https://www.toutiao.com/i6905995339287822859/).
+7. **Scrapy教程：**[Spider开发流程](https://www.toutiao.com/i6906040146215453197/).
 
 
 
