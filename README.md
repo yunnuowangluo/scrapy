@@ -10,6 +10,8 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 2. **Scrapy简介及安装：**[Scrapy简介及安装](https://mp.weixin.qq.com/s/HTog5FclgVP8fqZhGdZg3Q).
 3. **Scrapy简介及安装（补充）：**[Windows系统安装Scrapy失败的解决方法！](https://mp.weixin.qq.com/s/5vJ2o0ihTZBxqy3cHZ9ocg).
 4. **demo1教程：**[编写第一个Scrapy网络爬虫 之 采集书籍信息](https://mp.weixin.qq.com/s/ibkjbFk1Xi7AKvhr9tg6Qg).
+5. **Scrapy教程：**[Scrapy框架结构及工作原理](https://mp.weixin.qq.com/s/sXtY5fdspZ0ksUElpopH2A).
+6. **Scrapy教程：**[Scrapy爬虫框架中的 Request 和 Response 对象](https://mp.weixin.qq.com/s/IC2eJBEUkW3gr8bjINaH3g).
 
 
 ### 今日头条“码上学”
@@ -17,6 +19,8 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 2. **Scrapy简介及安装：**[Scrapy简介及安装](https://www.toutiao.com/i6905304485355323915/).
 3. **Scrapy简介及安装（补充）：**[Windows系统安装Scrapy失败的解决方法！](https://www.toutiao.com/i6905316330849747460/).
 4. **demo1教程：**[编写第一个Scrapy网络爬虫 之 采集书籍信息](https://www.toutiao.com/i6905315675930345996/).
+5. **Scrapy教程：**[Scrapy框架结构及工作原理](https://www.toutiao.com/i6905932561558913548/).
+6. **Scrapy教程：**[Scrapy爬虫框架中的 Request 和 Response 对象](https://www.toutiao.com/i6905995339287822859/).
 
 
 
