@@ -12,6 +12,8 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 4. **demo1教程：**[编写第一个Scrapy网络爬虫 之 采集书籍信息](https://mp.weixin.qq.com/s/ibkjbFk1Xi7AKvhr9tg6Qg).
 5. **Scrapy教程：**[Scrapy框架结构及工作原理](https://mp.weixin.qq.com/s/sXtY5fdspZ0ksUElpopH2A).
 6. **Scrapy教程：**[Scrapy爬虫框架中的 Request 和 Response 对象](https://mp.weixin.qq.com/s/IC2eJBEUkW3gr8bjINaH3g).
+7. **Scrapy教程：**[Spider开发流程](https://mp.weixin.qq.com/s/FDLV5KiBmX25b7fwINUJNQ).
+8. **Scrapy教程：**[使用Selector提取数据 -- Selector 对象](https://mp.weixin.qq.com/s/DkwzTTYtXj0gF7FEK-ww6g).
 
 
 ### 今日头条“码上学”
@@ -22,6 +24,7 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 5. **Scrapy教程：**[Scrapy框架结构及工作原理](https://www.toutiao.com/i6905932561558913548/).
 6. **Scrapy教程：**[Scrapy爬虫框架中的 Request 和 Response 对象](https://www.toutiao.com/i6905995339287822859/).
 7. **Scrapy教程：**[Spider开发流程](https://www.toutiao.com/i6906040146215453197/).
+8. **Scrapy教程：**[使用Selector提取数据 -- Selector 对象](https://www.toutiao.com/i6906650918599623172/).
 
 
 
