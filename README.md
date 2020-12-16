@@ -25,7 +25,7 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 6. **Scrapy教程：**[Scrapy爬虫框架中的 Request 和 Response 对象](https://www.toutiao.com/i6905995339287822859/).
 7. **Scrapy教程：**[Spider开发流程](https://www.toutiao.com/i6906040146215453197/).
 8. **Scrapy教程：**[使用Selector提取数据 -- Selector 对象](https://www.toutiao.com/i6906650918599623172/).
-
+9. **Scrapy教程：**[使用Selector提取数据 -- Response 内置 Selector](https://www.toutiao.com/i6906738556379955725/).
 
 
 ## 关注“码上”公众号，查看更多教程
