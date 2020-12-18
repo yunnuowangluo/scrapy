@@ -31,7 +31,7 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 9. **Scrapy教程：**[使用Selector提取数据 -- Response 内置 Selector](https://www.toutiao.com/i6906738556379955725/).
 10. **Scrapy教程：**[使用Selector提取数据 -- XPath](https://www.toutiao.com/i6907049604336927246/).
 11. **Scrapy教程：**[使用Selector提取数据——CSS选择器](https://www.toutiao.com/i6907141986717876739/).
-12. **Scrapy教程：**[Scrapy 使用 Item 封装数据](https://www.toutiao.com/i6907512008271331843/).
+12. **demo2教程：**[Scrapy 使用 Item 封装数据](https://www.toutiao.com/i6907512008271331843/).
 
 
 ## 关注“码上”公众号，查看更多教程
