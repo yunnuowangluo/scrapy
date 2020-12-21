@@ -17,6 +17,8 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 9. **Scrapy教程：**[使用Selector提取数据 -- Response 内置 Selector](https://mp.weixin.qq.com/s/hqoG2SvjBen4RZ_81DBUqg).
 10. **Scrapy教程：**[使用Selector提取数据 -- XPath](https://mp.weixin.qq.com/s/3TyXxKcbQUlgcoTUz8iUJw).
 11. **Scrapy教程：**[使用Selector提取数据——CSS选择器](https://mp.weixin.qq.com/s/z17IMgyCWOXvqtnwqmhf0Q).
+12. **demo2教程：**[Scrapy 使用 Item 封装数据](https://mp.weixin.qq.com/s/_bblV0EmwGaN2Ox_dLzRhA).
+13. **demo3教程：**[Scrapy 使用 Item Pipeline 处理数据](https://mp.weixin.qq.com/s/t599cplwr5jI3zDbCD86zQ).
 
 
 ### 今日头条“码上学”
@@ -32,6 +34,7 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 10. **Scrapy教程：**[使用Selector提取数据 -- XPath](https://www.toutiao.com/i6907049604336927246/).
 11. **Scrapy教程：**[使用Selector提取数据——CSS选择器](https://www.toutiao.com/i6907141986717876739/).
 12. **demo2教程：**[Scrapy 使用 Item 封装数据](https://www.toutiao.com/i6907512008271331843/).
+13. **demo3教程：**[Scrapy 使用 Item Pipeline 处理数据](https://www.toutiao.com/i6908529281224540680/).
 
 
 ## 关注“码上”公众号，查看更多教程
