@@ -19,6 +19,8 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 11. **Scrapy教程：**[使用Selector提取数据——CSS选择器](https://mp.weixin.qq.com/s/z17IMgyCWOXvqtnwqmhf0Q).
 12. **demo2教程：**[Scrapy 使用 Item 封装数据](https://mp.weixin.qq.com/s/_bblV0EmwGaN2Ox_dLzRhA).
 13. **demo3教程：**[Scrapy 使用 Item Pipeline 处理数据](https://mp.weixin.qq.com/s/t599cplwr5jI3zDbCD86zQ).
+14. **demo4教程：**[Scrapy 使用 Item Pipeline 过滤重复数据](https://mp.weixin.qq.com/s/Q_6PPp7Au_g60ExebZZq7w).
+15. **demo5教程：**[Scrapy 将数据存入 MongoDB](https://mp.weixin.qq.com/s/vtWzaK7g4fxcyYs2uVOA0w).
 
 
 ### 今日头条“码上学”
@@ -35,6 +37,8 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 11. **Scrapy教程：**[使用Selector提取数据——CSS选择器](https://www.toutiao.com/i6907141986717876739/).
 12. **demo2教程：**[Scrapy 使用 Item 封装数据](https://www.toutiao.com/i6907512008271331843/).
 13. **demo3教程：**[Scrapy 使用 Item Pipeline 处理数据](https://www.toutiao.com/i6908529281224540680/).
+14. **demo4教程：**[Scrapy 使用 Item Pipeline 过滤重复数据](https://www.toutiao.com/i6908547380212171275/).
+15. **demo5教程：**[Scrapy 将数据存入 MongoDB](https://www.toutiao.com/i6908905585949852168/).
 
 
 ## 关注“码上”公众号，查看更多教程
