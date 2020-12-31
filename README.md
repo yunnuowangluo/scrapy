@@ -22,7 +22,7 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 14. **demo4教程：**[Scrapy 使用 Item Pipeline 过滤重复数据](https://mp.weixin.qq.com/s/Q_6PPp7Au_g60ExebZZq7w).
 15. **demo5教程：**[Scrapy 将数据存入 MongoDB](https://mp.weixin.qq.com/s/vtWzaK7g4fxcyYs2uVOA0w).
 16. **demo6教程：**[Scrapy用LinkExtractor提取链接](https://mp.weixin.qq.com/s/kHqmXlfvJfvCrBmTAh1U1w).
-17. **demo7教程：**[Scrapy 使用 Exporter 导出数据](https://mp.weixin.qq.com/s/kHqmXlfvJfvCrBmTAh1U1w).
+17. **demo7教程：**[Scrapy 使用 Exporter 导出数据](https://mp.weixin.qq.com/s/wadS6kFzA2_ePOF6t8QFKQ).
 
 
 ### 今日头条“码上学”
@@ -42,7 +42,7 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 14. **demo4教程：**[Scrapy 使用 Item Pipeline 过滤重复数据](https://www.toutiao.com/i6908547380212171275/).
 15. **demo5教程：**[Scrapy 将数据存入 MongoDB](https://www.toutiao.com/i6908905585949852168/).
 16. **demo6教程：**[Scrapy用LinkExtractor提取链接](https://www.toutiao.com/i6911218682572177924/).
-17. **demo7教程：**[Scrapy 使用 Exporter 导出数据](https://mp.weixin.qq.com/s/kHqmXlfvJfvCrBmTAh1U1w).
+17. **demo7教程：**[Scrapy 使用 Exporter 导出数据](https://mp.weixin.qq.com/s/wadS6kFzA2_ePOF6t8QFKQ).
 
 
 ## 关注“码上”公众号，查看更多教程
