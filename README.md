@@ -5,7 +5,7 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 
 ## 讲解
 
-### 微信公众号“码上”
+### 微信公众号
 1. **网络爬虫是什么？：**[网络爬虫是什么？](https://mp.weixin.qq.com/s/NCVU677bwSSDTZo-_JFZkg).
 2. **Scrapy简介及安装：**[Scrapy简介及安装](https://mp.weixin.qq.com/s/HTog5FclgVP8fqZhGdZg3Q).
 3. **Scrapy简介及安装（补充）：**[Windows系统安装Scrapy失败的解决方法！](https://mp.weixin.qq.com/s/5vJ2o0ihTZBxqy3cHZ9ocg).
@@ -45,8 +45,8 @@ Scrapy网络爬虫框架学习笔记、示例，在python3.8环境下编写。
 17. **demo7教程：**[Scrapy 使用 Exporter 导出数据](https://mp.weixin.qq.com/s/wadS6kFzA2_ePOF6t8QFKQ).
 
 
-## 关注“码上”公众号，查看更多教程
-![关注“码上”公众号，查看更多教程](images/mashang.jpg)
+## 关注公众号，查看更多教程
+![关注公众号，查看更多教程](images/mashang.jpg)
 
 
 ## 支持一下（感谢您的支持^_^）
